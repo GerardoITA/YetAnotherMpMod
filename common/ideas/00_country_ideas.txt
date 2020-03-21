@@ -526,10 +526,10 @@ PRU_ideas = {
 		army_tradition_decay = -0.01
 	}
 	goose_step = {
-		infantry_power = 0.10
+		infantry_power = 0.15
 	}
 	regimental_cantons = {
-		global_manpower_modifier = 0.25
+		global_manpower_modifier = 0.2
 		global_regiment_recruit_speed = -0.10
 	}
 	religious_toleration = {
@@ -1050,7 +1050,7 @@ NAP_ideas = {
 	free = yes
 
 	crush_the_barons = {
-		land_morale = 0.1
+		discipline = 0.05
 	}
 	consolidate_the_royal_domain = {
 		global_trade_goods_size_modifier = 0.1
