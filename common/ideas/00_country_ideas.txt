@@ -75,7 +75,6 @@ GBR_ideas = {
 	}
 	reform_of_comission_buying = {
 		discipline = 0.05
-		land_morale = 0.1
 	}
 	british_industrialization = {
 		global_trade_goods_size_modifier = 0.2
