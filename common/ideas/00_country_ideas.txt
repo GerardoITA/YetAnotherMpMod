@@ -1606,10 +1606,10 @@ ITA_ideas = {
 		stability_cost_modifier = -0.10
 	}
 	tradition_of_the_legion = {
-		infantry_power = 0.20
+		infantry_power = 0.15
 	}
 	mare_nostrum = {
-		land_morale = 0.10
+		naval_morale = 0.10
 	}
 	office_of_censor = {
 		global_manpower_modifier = 0.33
